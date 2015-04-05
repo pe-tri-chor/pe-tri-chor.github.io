@@ -29,7 +29,9 @@ body {
 	font-weight: 100;
 	}
 .button{
-	text-align: left;
+	width:400px;
+	margin:0px auto;
+	text-align:left;
 	font-size: 16;
 	font-weight: 100;
 }
