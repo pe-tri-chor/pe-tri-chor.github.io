@@ -1,8 +1,9 @@
 h1 {
+	position: absolute;
 	font-family: serif;
 	font-size: 65;
-	left: 50%;
-	top:35%;
+	text-align: center;
+	top: 400px;
 
 }
 
