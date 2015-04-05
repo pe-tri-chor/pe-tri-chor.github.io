@@ -34,7 +34,7 @@ body {
 }
 
 .definition {
-	position: fixed;
+	position: relative;
 	font-family: serif;
 	font-size: 18;
 	text-align: center;
