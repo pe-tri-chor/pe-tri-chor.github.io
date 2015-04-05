@@ -6,11 +6,18 @@ body {
 	margin:50px 0px; padding:0px;
 	text-align:center;
 }
+.title {
+	font-size: 18;
+}
+.phonetics {
+	font-size: 14;
+}
 .definition {
 	width:500px;
 	margin:0px auto;
 	text-align:center;
 	padding:15px;
+	font-size: 12
 	}
 
 
