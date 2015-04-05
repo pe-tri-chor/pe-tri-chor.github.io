@@ -39,12 +39,10 @@ body {
 	font-size: 18;
 	text-align: center;
 	margin:auto;
-	width:80%;
+	width:30%;
 	top:225px;
 	padding-left: 100px;
 	padding-right: 100px;
-	margin-left: 300px;
-	margin-right: 300px;
 	overflow-y: scroll;
 }
 
