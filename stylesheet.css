@@ -13,7 +13,8 @@ h1 {
 	position: absolute;
 	font-family: serif;
 	font-size: 65;
-	top: 300px;
+	margin:auto;
+	text-align:center;
 
 }
 
@@ -24,18 +25,9 @@ p {
 	text-align: center;
 	top:900px;
 	overflow-y: scroll;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin:auto;
+	text-align:center;
 }
 
-p1 {
-	position: relative;
-	font-family: serif;
-	font-size: 50;
-	text-align: center;
-	top: 1500px;
-	overflow-y: scroll;
-	margin-left: 100px;
-	margin-right: 100px;
-}
+
 
