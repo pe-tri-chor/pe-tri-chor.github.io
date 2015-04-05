@@ -2,13 +2,11 @@ html {
 	width: 100%;
 	height: 100%;
 	margin: 0;
-	overflow-y: hidden;
 }
 body {
 	width: 100%;
 	height: 100%;
 	margin: 0;
-	overflow-y: hidden;
 }
 
 h1 {
@@ -26,7 +24,7 @@ p {
 	font-size: 50;
 	text-align: center;
 	top:900px;
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
 p1 {
@@ -35,6 +33,6 @@ p1 {
 	font-size: 50;
 	text-align: center;
 	top: 1500px;
-	overflow: scroll;
+	overflow-y: scroll;
 }
 
