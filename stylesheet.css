@@ -14,12 +14,18 @@ body {
 	font-family: serif;
 	font-size: 30;
 	text-align: center;
+	margin:auto;
+	width:30%;
+	top:100px;
 }
 .phonetics {
 	position: fixed;
 	font-family: serif;
 	font-size: 13;
 	text-align: center;
+	margin:auto;
+	width:30%;
+	top:165px;
 	overflow-y: scroll;
 }
 
@@ -28,6 +34,9 @@ body {
 	font-family: serif;
 	font-size: 18;
 	text-align: center;
+	margin:auto;
+	width:30%;
+	top:225px;
 	overflow-y: scroll;
 }
 
