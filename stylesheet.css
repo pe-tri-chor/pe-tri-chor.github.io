@@ -27,14 +27,6 @@ body {
 	font-size: 18;
 	font-weight: 100;
 	}
-.email {
-	font-size: 23;
-	font-weight: 100;
-}
-.email:hover{
-	color: #6232ff;
-	text-decoration: underline;
-}
 
 a {
 	text-decoration: none;
