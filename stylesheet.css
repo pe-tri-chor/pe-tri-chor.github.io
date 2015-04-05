@@ -43,6 +43,8 @@ body {
 	top:225px;
 	padding-left: 100px;
 	padding-right: 100px;
+	margin-left: 300px;
+	margin-right: 300px;
 	overflow-y: scroll;
 }
 
