@@ -18,13 +18,13 @@ body {
 	top:100px;
 
 }
-p {
+.definition {
 	position: relative;
 	font-family: serif;
 	font-size: 20;
 	text-align: center;
 	top:600px;
-	left: 45%;
+	left: 43%;
 	overflow-y: scroll;
 }
 
