@@ -2,7 +2,7 @@ h1 {
 	font-family: serif;
 	font-size: 65;
 	text-align: center;
-	padding-top: 350px
+	top: 350px
 	overflow: scroll;
 }
 
