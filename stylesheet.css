@@ -13,7 +13,7 @@ body {
 	font-size: 30;
 	text-align: center;
 	margin:auto;
-	width:30%;
+	width:80%;
 	top:100px; 
 }
 .phonetics {
@@ -22,7 +22,7 @@ body {
 	font-size: 13;
 	text-align: center;
 	margin:auto;
-	width:30%;
+	width:80%;
 	top:165px;
 	overflow-y: scroll;
 }
@@ -33,7 +33,7 @@ body {
 	font-size: 16;
 	text-align: center;
 	margin:auto;
-	width:30%;
+	width:80%;
 	top:225px;
 	overflow-y: scroll;
 }
