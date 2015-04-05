@@ -22,11 +22,11 @@ h1 {
 p {
 	position: relative;
 	font-family: serif;
-	font-size: 16;
+	font-size: 60;
 	text-align: center;
-	top:500px;
+	top:80px;
 	overflow-y: scroll;
-	left: 50%;
+	left: 130px;
 }
 
 
