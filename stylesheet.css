@@ -28,6 +28,24 @@ body {
 	font-size: 18;
 	font-weight: 100;
 	}
+.button{
+	text-align: left;
+	font-size: 16;
+	font-weight: 100;
+}
+.about {
+	text-align: left;
+	width:400px;
+	margin:0px auto;
+	text-align:left;
+	padding:15px;
+	padding-top: 78px;
+	padding-left: 38px;
+	padding-bottom: 90px;
+	font-size: 18;
+	font-weight: 100;
+
+}
 
 a {
 	color: black;
