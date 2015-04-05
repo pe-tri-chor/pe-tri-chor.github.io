@@ -1,6 +1,15 @@
-p {
+h1 {
 	font-family: serif;
 	font-size: 65;
+	text-align: center;
+	padding-top: 350px
+	overflow: scroll;
+}
+
+p {
+	position: relative;
+	font-family: serif;
+	font-size: 30;
 	text-align: center;
 	padding-top: 350px
 	overflow: scroll;
