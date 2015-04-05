@@ -17,7 +17,7 @@ body {
 	margin:auto;
 	width:30%;
 	top:100px;
-	padding-left: 100px;
+	padding-left: 500px;
 	padding-right: 100px;
 }
 .phonetics {
@@ -28,7 +28,7 @@ body {
 	margin:auto;
 	width:30%;
 	top:165px;
-	padding-left: 100px;
+	padding-left: 500px;
 	padding-right: 100px;
 	overflow-y: scroll;
 }
@@ -41,7 +41,7 @@ body {
 	margin:auto;
 	width:30%;
 	top:225px;
-	padding-left: 100px;
+	padding-left: 500px;
 	padding-right: 100px;
 	overflow-y: scroll;
 }
