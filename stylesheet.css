@@ -33,12 +33,11 @@ body {
 	margin:0px auto;
 	text-align:center;
 	font-size: 18;
-	font-weight: 100;
+	font-weight: 300;
 	padding-bottom: 60px;
 }
 .button:hover{
 	text-decoration: underline;
-	font-style: bold;
 }
 .about {
 	text-align: left;
