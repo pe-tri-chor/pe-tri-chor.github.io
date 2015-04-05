@@ -31,6 +31,10 @@ body {
 	padding-top: 90px;
 	font-weight: 100;
 }
+.email:hover{
+	color: #6232ff;
+	text-decoration: underline;
+}
 
 
 
