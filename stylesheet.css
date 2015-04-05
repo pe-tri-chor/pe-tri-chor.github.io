@@ -11,13 +11,15 @@ body {
 }
 .phonetics {
 	font-size: 14;
+	top: 175px;
 }
 .definition {
 	width:500px;
 	margin:0px auto;
 	text-align:center;
 	padding:15px;
-	font-size: 12
+	top: 16;
+	font-size: 12;
 	}
 
 
