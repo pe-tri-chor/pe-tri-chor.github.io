@@ -15,7 +15,7 @@ body {
 	font-size: 30;
 	text-align: center;
 	margin:auto;
-	width:80%;
+	width:30%;
 	top:100px;
 	padding-left: 100px;
 	padding-right: 100px;
@@ -26,7 +26,7 @@ body {
 	font-size: 13;
 	text-align: center;
 	margin:auto;
-	width:80%;
+	width:30%;
 	top:165px;
 	padding-left: 100px;
 	padding-right: 100px;
@@ -34,7 +34,7 @@ body {
 }
 
 .definition {
-	position: relative;
+	position: fixed;
 	font-family: serif;
 	font-size: 18;
 	text-align: center;
