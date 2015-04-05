@@ -17,7 +17,7 @@ body {
 	margin:auto;
 	width:80%;
 	top:100px;
-
+	padding-left: 100px;
 }
 .definition {
 	position: fixed;
@@ -27,6 +27,7 @@ body {
 	margin:auto;
 	width:80%;
 	top:250px;
+	padding-left: 100px;
 	overflow-y: scroll;
 }
 
