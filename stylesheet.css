@@ -11,7 +11,7 @@ p {
 	font-family: serif;
 	font-size: 30;
 	text-align: center;
-	padding-left: 250px;
+	margin-left: 100px;
 	padding-top: 350px;
 	overflow: scroll;
 }
