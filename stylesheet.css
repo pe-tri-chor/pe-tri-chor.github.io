@@ -18,12 +18,11 @@ h1 {
 	top:100px;
 
 }
-
 p {
 	font-family: serif;
 	font-size: 20;
 	text-align: center;
-	top:50%;
+	top:600px;
 	left: 45%;
 	overflow-y: scroll;
 }
