@@ -16,7 +16,6 @@ body {
 	text-align: center;
 	margin:auto;
 	width:80%;
-	left: 43%;
 	top:100px;
 
 }
@@ -24,7 +23,7 @@ body {
 	position: fixed;
 	font-family: serif;
 	font-size: 20;
-	text-align: left;
+	text-align: center;
 	margin:auto;
 	width:80%;
 	top:300px;
