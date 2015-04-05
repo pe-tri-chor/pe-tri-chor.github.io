@@ -29,12 +29,13 @@ body {
 	}
 
 a {
-	text-decoration: none;
 	color: black;
+	font-size: 16;
 }
 
 a:hover{
 	color:#6232ff;
+	text-decoration: underline;
 }
 
 
