@@ -23,7 +23,7 @@ body {
 .phonetics {
 	position: fixed;
 	font-family: serif;
-	font-size: 10;
+	font-size: 13;
 	text-align: center;
 	margin:auto;
 	width:80%;
@@ -36,7 +36,7 @@ body {
 .definition {
 	position: fixed;
 	font-family: serif;
-	font-size: 20;
+	font-size: 18;
 	text-align: center;
 	margin:auto;
 	width:80%;
