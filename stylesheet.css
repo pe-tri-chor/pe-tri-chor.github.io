@@ -9,7 +9,7 @@ body {
 	margin: 0;
 }
 
-title {
+.title {
 	position: fixed;
 	font-family: serif;
 	font-size: 30;
