@@ -38,6 +38,7 @@ body {
 }
 .button:hover{
 	text-decoration: underline;
+	font-style: bold;
 }
 .about {
 	text-align: left;
