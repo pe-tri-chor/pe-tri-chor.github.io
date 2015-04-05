@@ -23,7 +23,7 @@ p {
 	font-family: serif;
 	font-size: 20;
 	text-align: center;
-	top:300px;
+	top:50%;
 	left: 45%;
 	overflow-y: scroll;
 }
