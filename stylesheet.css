@@ -12,21 +12,20 @@ body {
 h1 {
 	position: absolute;
 	font-family: serif;
-	font-size: 65;
-	margin:auto;
-	text-align:center;
+	font-size: 20;
+	top: 300px;
 
 }
 
 p {
 	position: relative;
 	font-family: serif;
-	font-size: 50;
+	font-size: 160;
 	text-align: center;
-	top:900px;
+	top:500px;
 	overflow-y: scroll;
-	margin:auto;
-	text-align:center;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 
