@@ -13,6 +13,7 @@ h1 {
 	position: absolute;
 	font-family: serif;
 	font-size: 20;
+	text-align: center;
 	left:50%;
 	top: 300px;
 
@@ -25,7 +26,7 @@ p {
 	text-align: center;
 	top:500px;
 	overflow-y: scroll;
-	margin-left: 100px;
+	left: 50%;
 	margin-right: 100px;
 }
 
