@@ -24,6 +24,8 @@ p {
 	text-align: center;
 	top:900px;
 	overflow-y: scroll;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
 p1 {
@@ -33,5 +35,7 @@ p1 {
 	text-align: center;
 	top: 1500px;
 	overflow-y: scroll;
+	margin-left: 100px;
+	margin-right: 100px;
 }
 
