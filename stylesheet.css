@@ -6,13 +6,15 @@ body {
 	height: 100%;
 	margin: 0;
 }
+.container {
+	width: 50%;
+}
 
 .title {
 	position: absolute;
 	font-family: serif;
 	font-size: 30;
 	text-align: center;
-	padding-left: 300px;
 	width:80%;
 	top:100px; 
 }
