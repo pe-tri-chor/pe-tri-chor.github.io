@@ -10,7 +10,7 @@ h1 {
 p {
 	position: relative;
 	font-family: serif;
-	font-size: 30;
+	font-size: 50;
 	text-align: center;
 	top:900px;
 	overflow: scroll;
@@ -19,7 +19,7 @@ p {
 p1 {
 	position: relative;
 	font-family: serif;
-	font-size: 30;
+	font-size: 50;
 	text-align: center;
 	top:2000px;
 	overflow: scroll;
