@@ -9,10 +9,12 @@ body {
 .title {
 	padding-top: 20px;
 	font-size: 30;
+	font-weight: 100;
 }
 .phonetics {
 	font-size: 23;
 	padding-top: 60px;
+	font-weight: 100;
 }
 .definition {
 	width:300px;
@@ -21,6 +23,7 @@ body {
 	padding:15px;
 	padding-top: 70px;
 	font-size: 20;
+	font-weight: 100;
 	}
 
 
