@@ -23,12 +23,12 @@ body {
 	padding:15px;
 	padding-top: 78px;
 	padding-left: 40px;
+	padding-bottom: 90px;
 	font-size: 18;
 	font-weight: 100;
 	}
 .email {
 	font-size: 23;
-	padding-top: 90px;
 	font-weight: 100;
 }
 .email:hover{
