@@ -39,6 +39,18 @@ img {
 .button:hover{
 	text-decoration: underline;
 }
+.buttons{
+	width:400px;
+	margin:0px auto;
+	padding: 15px;
+	padding-left: 38px;
+	text-align:left;
+	font-size: 16;
+	font-weight: 300;
+}
+.buttons:hover{
+	text-decoration: underline;
+}
 .what {
 	text-align: left;
 	width:400px;
