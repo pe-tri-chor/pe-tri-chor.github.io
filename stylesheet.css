@@ -30,8 +30,8 @@ img {
 .button{
 	width:400px;
 	margin:0px auto;
-	text-align:center;
-	font-size: 14;
+	text-align:left;
+	font-size: 16;
 	font-weight: 300;
 	padding-bottom: 60px;
 }
