@@ -54,6 +54,7 @@ img {
 a {
 	color: black;
 	font-size: 20;
+	padding-bottom: 175px;
 }
 
 a:hover{
