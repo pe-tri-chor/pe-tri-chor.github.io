@@ -6,11 +6,9 @@ body {
 	margin:50px 0px; padding:0px;
 	text-align:center;
 }
-.title {
-	padding-top: 20px;
-	font-size: 30;
-	font-weight: 100;
-	padding-left: 8px;
+img {
+	padding-left: 10px;
+	
 }
 .phonetics {
 	font-size: 16;
