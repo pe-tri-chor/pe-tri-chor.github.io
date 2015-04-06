@@ -39,7 +39,7 @@ img {
 .button:hover{
 	text-decoration: underline;
 }
-.what {
+.what , .why {
 	text-align: left;
 	width:400px;
 	margin:0px auto;
