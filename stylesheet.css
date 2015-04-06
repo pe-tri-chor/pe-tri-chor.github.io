@@ -39,6 +39,7 @@ img {
 }
 .button:hover{
 	text-decoration: underline;
+	cursor: pointer;
 }
 .buttons{
 	width:400px;
@@ -50,6 +51,7 @@ img {
 }
 .buttons:hover{
 	text-decoration: underline;
+	cursor: pointer;
 }
 .what {
 	text-align: left;
