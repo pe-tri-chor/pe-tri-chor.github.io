@@ -40,4 +40,16 @@ $(document).ready(function(){
   ga('send', 'pageview');
 
 </script>
+<script type="text/javascript">
+$(document).ready(function(){
+var xrange = Math.floor((mouseX/windowWidth) * 100);
+    var yrange = Math.floor((mouseY/windowHeight)* 100);
+
+
+    $(".button").css({
+		"text-shadow":-xrange+"px "+yrange+"px 20px rgba(86,86,86,0.25)"
+
+    });
+</script>
+
 </html>

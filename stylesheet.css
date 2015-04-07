@@ -37,6 +37,7 @@ img {
 	font-size: 16;
 	font-weight: 300;
 	color:#707000;
+	text-shadow: 2px 2px #ff0000;
 }
 .button:hover{
 	text-decoration: underline;
