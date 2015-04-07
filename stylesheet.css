@@ -97,6 +97,9 @@ a:hover{
 	height: 175px;
 }
 
+.textShadow {
+  text-shadow: -20px 20px 10px rgba(86, 86, 86, 0.25);
+
 
 
 
