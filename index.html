@@ -6,9 +6,10 @@
 
 <script>
 $(document).ready(function(){
-    $("#show").click(function(){
-        $("#what").show("slow");
-    });
+    $( "#show" ).click(function() {
+  $( "#what" ).slideDown( "slow", function() {
+  	});
+});
     $("#shows").click(function(){
         $("#why").show("slow");
     });
