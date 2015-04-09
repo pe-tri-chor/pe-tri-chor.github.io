@@ -7,11 +7,11 @@
 <script>
 $(document).ready(function(){
     $( "#show" ).click(function() {
-  $( "#what" ).slideDown( 500 ) ;
+  $( "#what" ).slideDown( 400, function() {
   });
 });
     $("#shows").click(function(){
-        $("#why").slideDown( 500 );
+        $("#why").show(400);
     });
 });
 </script>
